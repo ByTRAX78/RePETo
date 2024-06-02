@@ -4,7 +4,7 @@ Participación en Hackathon: En este evento, el reto era básicamente proponer u
 
 [Documentación oficial del proyecto](https://drive.google.com/file/d/1_IT3L08d4-2IOciK5k4zXCh7rgdjyKr7/view?usp=sharing)
 
-## Video de Presentación (Da click en la imagen para ver el video)
+## Video de presentación del proyecto final (Da click en la imagen para ver el video)
 
 [![Alt text](https://i.postimg.cc/WpkWyrRp/Imagen1.png)](https://youtu.be/lWu9yilB9Wc?si=TtzUghvnMy9_JU3G)
 
