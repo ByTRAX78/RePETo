@@ -1,4 +1,5 @@
-# Proyecto de Hackaton (RePETO)
+# Proyecto de Hackaton (RePETO) - Track "Google Cloud"
+### Genius Arena Hackaton
 Participación en Hackathon: En este evento, el reto era básicamente proponer un proyecto que se apegara con la ODS 13. Durante el reto, las ideas acerca de lo que queríamos hacer eran mucho más claras y llego “RePETo”, una máquina recicladora de botellas que utiliza AI para su funcionamiento, y que recompensa al usuario por cada reciclaje que hace. Con esta idea conseguimos llegar a semifinales.
 
 [Documentación oficial del proyecto](https://drive.google.com/file/d/1_IT3L08d4-2IOciK5k4zXCh7rgdjyKr7/view?usp=sharing)
